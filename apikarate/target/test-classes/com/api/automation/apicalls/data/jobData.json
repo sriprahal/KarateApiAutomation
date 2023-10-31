@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Srihari",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "name": "Keerthana",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "name": "Ramkumar",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "name": "Balaji",
+    "gender": "male",
+    "status": "active"
+  }
+]
+
+
